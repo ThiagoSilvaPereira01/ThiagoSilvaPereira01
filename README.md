@@ -2,15 +2,13 @@
 
 # Thiago Silva
 
-### Estudante de Análise e Desenvolvimento de Sistemas
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Estudante+de+ADS;Desenvolvedor+em+formacao;JavaScript+%7C+HTML+%7C+CSS+%7C+C%23+%7C+Git" alt="Typing SVG" />
 
 Construindo minha base em desenvolvimento web, programação e versionamento de código.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6)
-![C%23](https://img.shields.io/badge/C%23-111827?style=for-the-badge&logo=csharp&logoColor=9B4F96)
-![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)
+<br>
+
+<img src="https://skillicons.dev/icons?i=js,html,css,cs,git,github,vscode,visualstudio&theme=dark" alt="Tecnologias" />
 
 </div>
 
@@ -27,17 +25,13 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou em constante
 
 ## Tecnologias
 
-### Front-end
+<div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-0F172A?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0F172A?style=flat-square&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=flat-square&logo=javascript&logoColor=F7DF1E)
+| Front-end | Back-end | Ferramentas |
+| --- | --- | --- |
+| <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML, CSS e JavaScript" /> | <img src="https://skillicons.dev/icons?i=cs,dotnet&theme=dark" alt="C# e .NET" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio&theme=dark" alt="Git, GitHub, VS Code e Visual Studio" /> |
 
-### Back-end e ferramentas
-
-![C%23](https://img.shields.io/badge/C%23-0F172A?style=flat-square&logo=csharp&logoColor=9B4F96)
-![Git](https://img.shields.io/badge/Git-0F172A?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github&logoColor=FFFFFF)
+</div>
 
 ## Em evolução
 
@@ -51,13 +45,15 @@ Git         ███████░░░░   Versionamento de projetos
 
 ## GitHub
 
-
-
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiagohassil-pixel&show_icons=true&theme=github_dark&hide_border=true&border_radius=8)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=thiagohassil-pixel&show_icons=true&theme=github_dark&hide_border=true&border_radius=8" alt="Estatísticas do GitHub" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagohassil-pixel&layout=compact&theme=github_dark&hide_border=true&border_radius=8)
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagohassil-pixel&layout=compact&theme=github_dark&hide_border=true&border_radius=8" alt="Linguagens mais usadas" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thiagohassil-pixel&theme=react-dark&hide_border=true&radius=8" alt="Gráfico de atividade do GitHub" />
 
 </div>
 
