@@ -33,11 +33,9 @@ Neste perfil, compartilho projetos, estudos e experimentos criados durante minha
 
 ## Estatísticas do GitHub
 
-> Substitua `SEU_USUARIO` pelo seu nome de usuário do GitHub para ativar os cards abaixo.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiagohassil-pixel&show_icons=true&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagohassil-pixel&layout=compact&theme=tokyonight)
 
 ## Contato
 
