@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,30:7C3AED,65:06B6D4,100:22C55E&height=220&section=header&text=Thiago%20Silva%20Pereira&fontSize=42&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=Estudante%20Full%20Stack%20%7C%20DevOps%20em%20forma%C3%A7%C3%A3o&descAlignY=58&descSize=18" alt="Banner Thiago Silva Pereira" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:111111,70:B91C1C,100:EF4444&height=220&section=header&text=Thiago%20Silva%20Pereira&fontSize=42&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=Estudante%20Full%20Stack%20%7C%20DevOps%20em%20forma%C3%A7%C3%A3o&descAlignY=58&descSize=18" alt="Banner Thiago Silva Pereira" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2400&pause=800&color=38BDF8&center=true&vCenter=true&width=850&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Estudante+Full+Stack;DevOps+em+forma%C3%A7%C3%A3o;HTML+%7C+CSS+%7C+JavaScript+%7C+C%23+%7C+Git" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2400&pause=800&color=EF4444&center=true&vCenter=true&width=850&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Estudante+Full+Stack;DevOps+em+forma%C3%A7%C3%A3o;HTML+%7C+CSS+%7C+JavaScript+%7C+C%23+%7C+Git" alt="Typing animation" />
 
 <br><br>
 
@@ -11,10 +11,10 @@
 <br><br>
 
 <a href="https://github.com/ThiagoSilvaPereira01">
-  <img src="https://img.shields.io/badge/GitHub-ThiagoSilvaPereira01-18181B?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=7C3AED" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-ThiagoSilvaPereira01-0A0A0A?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=B91C1C" alt="GitHub" />
 </a>
 <a href="https://github.com/ThiagoSilvaPereira01?tab=repositories">
-  <img src="https://img.shields.io/badge/Meus%20Projetos-Reposit%C3%B3rios-38BDF8?style=for-the-badge&logo=github&logoColor=0F172A&labelColor=18181B" alt="Repositórios" />
+  <img src="https://img.shields.io/badge/Meus%20Projetos-Reposit%C3%B3rios-EF4444?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0A0A0A" alt="Repositórios" />
 </a>
 
 </div>
@@ -31,13 +31,13 @@ Estou construindo minha base com projetos práticos, estudando lógica de progra
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-FF4B2B?style=for-the-badge&logo=html5&logoColor=FFFFFF)
-![CSS3](https://img.shields.io/badge/CSS3-1572FF?style=for-the-badge&logo=css3&logoColor=FFFFFF)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111)
-![C#](https://img.shields.io/badge/C%23-7C3AED?style=for-the-badge&logo=csharp&logoColor=FFFFFF)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=FFFFFF)
+![HTML5](https://img.shields.io/badge/HTML5-0A0A0A?style=for-the-badge&logo=html5&logoColor=EF4444)
+![CSS3](https://img.shields.io/badge/CSS3-0A0A0A?style=for-the-badge&logo=css3&logoColor=EF4444)
+![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript&logoColor=EF4444)
+![C#](https://img.shields.io/badge/C%23-0A0A0A?style=for-the-badge&logo=csharp&logoColor=EF4444)
+![Git](https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=EF4444)
+![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![Azure](https://img.shields.io/badge/Azure-0A0A0A?style=for-the-badge&logo=microsoftazure&logoColor=EF4444)
 
 </div>
 
@@ -84,10 +84,10 @@ Criar projetos cada vez melhores, evoluir como estudante Full Stack e construir 
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2600&pause=900&color=22C55E&center=true&vCenter=true&width=760&lines=Aprendendo+todos+os+dias.;Construindo+meu+portf%C3%B3lio.;Full+Stack+%2B+DevOps+em+evolu%C3%A7%C3%A3o." alt="Footer typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2600&pause=900&color=EF4444&center=true&vCenter=true&width=760&lines=Aprendendo+todos+os+dias.;Construindo+meu+portf%C3%B3lio.;Full+Stack+%2B+DevOps+em+evolu%C3%A7%C3%A3o." alt="Footer typing animation" />
 
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,35:06B6D4,70:7C3AED,100:0F172A&height=140&section=footer&animation=twinkling" alt="Footer wave" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EF4444,35:B91C1C,70:111111,100:050505&height=140&section=footer&animation=twinkling" alt="Footer wave" />
 
 </div>
