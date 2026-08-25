@@ -47,9 +47,10 @@ Estou construindo minha base com projetos práticos, estudando lógica de progra
 
 | Desenvolvimento Web | Back-end | DevOps |
 | --- | --- | --- |
+| <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML, CSS e JavaScript" /> | <img src="https://skillicons.dev/icons?i=cs&theme=dark" alt="C#" /> | <img src="https://skillicons.dev/icons?i=git,github,azure&theme=dark" alt="Git, GitHub e Azure" /> |
 | HTML, CSS e JavaScript | C# | Git, GitHub e Azure |
-| Estrutura, estilo e interação | Lógica e fundamentos | Versionamento e cloud em estudo |
-| Projetos práticos | Organização de código | Caminho para automação e deploy |
+| Estrutura, estilo e interação | Lógica, fundamentos e organização | Versionamento, cloud e automação em estudo |
+| Projetos práticos | Base para aplicações back-end | Caminho para integração e deploy |
 
 </div>
 
