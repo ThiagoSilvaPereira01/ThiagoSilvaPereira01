@@ -141,8 +141,12 @@ DevOps      █████░░░░░░   Cloud, automacao e entrega
 
 <div align="center">
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-adicione%20seu%20link-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)
-![Email](https://img.shields.io/badge/E--mail-adicione%20seu%20email-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF)
+<a href="https://www.linkedin.com/in/thiago-silva-0537aa192">
+  <img src="https://img.shields.io/badge/LinkedIn-Thiago%20Silva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" />
+</a>
+<a href="mailto:Thiago.hassil@gmail.com">
+  <img src="https://img.shields.io/badge/E--mail-Thiago.hassil%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="E-mail" />
+</a>
 ![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-em%20constru%C3%A7%C3%A3o-BE185D?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
 
 </div>
