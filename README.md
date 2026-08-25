@@ -147,7 +147,6 @@ DevOps      █████░░░░░░   Cloud, automacao e entrega
 <a href="mailto:Thiago.hassil@gmail.com">
   <img src="https://img.shields.io/badge/E--mail-Thiago.hassil%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="E-mail" />
 </a>
-![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-em%20constru%C3%A7%C3%A3o-BE185D?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
 
 </div>
 
