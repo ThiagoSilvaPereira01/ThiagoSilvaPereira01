@@ -51,13 +51,13 @@ Git         ███████░░░░   Versionamento de projetos
 
 ## GitHub
 
-> Troque `SEU_USUARIO` pelo seu nome de usuário do GitHub para ativar os cards.
+
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&hide_border=true&border_radius=8)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiagohassil-pixel&show_icons=true&theme=github_dark&hide_border=true&border_radius=8)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark&hide_border=true&border_radius=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagohassil-pixel&layout=compact&theme=github_dark&hide_border=true&border_radius=8)
 
 </div>
 
