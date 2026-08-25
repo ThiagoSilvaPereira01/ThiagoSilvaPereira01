@@ -108,16 +108,13 @@ DevOps      █████░░░░░░   Cloud, automacao e entrega
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ThiagoSilvaPereira01&show_icons=true&theme=radical&hide_border=true&title_color=22D3EE&icon_color=F472B6&text_color=E5E7EB&bg_color=050505" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoSilvaPereira01&layout=donut&theme=radical&hide_border=true&title_color=22D3EE&text_color=E5E7EB&bg_color=050505" alt="Top languages" />
-
-<br><br>
-
 <img src="https://streak-stats.demolab.com?user=ThiagoSilvaPereira01&theme=radical&hide_border=true&background=050505&ring=22D3EE&fire=F97316&currStreakLabel=F472B6" alt="GitHub streak" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ThiagoSilvaPereira01&bg_color=050505&color=E5E7EB&line=22D3EE&point=F472B6&area=true&hide_border=true" alt="GitHub activity graph" />
+<a href="https://github.com/ThiagoSilvaPereira01?tab=repositories">
+  <img src="https://img.shields.io/badge/Ver%20reposit%C3%B3rios-050505?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=BE185D" alt="Ver repositórios" />
+</a>
 
 </div>
 
