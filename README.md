@@ -74,8 +74,8 @@ const thiagoSilvaPereira = {
 
 <div align="center">
 
-![VS Code](https://img.shields.io/badge/VS%20Code-050505?style=for-the-badge&logo=visualstudiocode&logoColor=22D3EE)
-![Claude](https://img.shields.io/badge/Claude-050505?style=for-the-badge&logo=claude&logoColor=F97316)
+![Rider](https://img.shields.io/badge/Rider-050505?style=for-the-badge&logo=rider&logoColor=FFFFFF)
+![Codex](https://img.shields.io/badge/Codex-050505?style=for-the-badge&logo=openai&logoColor=22D3EE)
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-050505?style=for-the-badge&logo=linuxmint&logoColor=86EFAC)
 ![GitHub](https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=FFFFFF)
 
