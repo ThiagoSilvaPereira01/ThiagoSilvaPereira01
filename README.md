@@ -1,52 +1,80 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0284C7,100:38BDF8&height=180&section=header&text=Thiago%20Silva&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20%2B%20DevOps%20em%20formacao&descAlignY=58&descSize=18" alt="Banner Thiago Silva" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0F172A,100:38BDF8&height=210&section=header&text=Thiago%20Silva%20Pereira&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20DevOps%20Student%20%7C%20Azure%20Journey&descAlignY=58&descSize=18" alt="Banner Thiago Silva Pereira" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=780&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Estudante+Full+Stack;Estudando+para+ser+DevOps;Azure+%7C+Docker+%7C+Linux+%7C+GitHub+Actions" alt="Typing SVG" />
-
-Construindo minha base em desenvolvimento Full Stack, programação, versionamento de código e práticas DevOps.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2400&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Full+Stack+em+forma%C3%A7%C3%A3o;DevOps+%2B+Cloud+com+foco+em+Azure;Construindo+projetos+com+vis%C3%A3o+de+produto" alt="Typing animation" />
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=js,html,css,cs,azure,docker,linux,git,githubactions,github,vscode,visualstudio&theme=dark" alt="Tecnologias" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,bootstrap,cs,dotnet,nodejs,azure,docker,linux,githubactions,git,github,bash,powershell,vscode,visualstudio,figma,postman&theme=dark&perline=12" alt="Tech stack icons" />
+
+<br><br>
+
+<a href="https://github.com/ThiagoSilvaPereira01">
+  <img src="https://img.shields.io/badge/GitHub-ThiagoSilvaPereira01-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
+</a>
+<a href="https://github.com/ThiagoSilvaPereira01?tab=repositories">
+  <img src="https://img.shields.io/badge/Portf%C3%B3lio-Reposit%C3%B3rios-38BDF8?style=for-the-badge&logo=github&logoColor=0F172A" alt="Repositórios" />
+</a>
 
 </div>
 
 ---
 
-## Sobre mim
+## Perfil
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou em constante evolução na área de tecnologia. Atualmente estou estudando para atuar como **desenvolvedor Full Stack** e também seguir na área de **DevOps**, entendendo melhor automação, versionamento, cloud, integração e entrega de software.
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, em formação como **desenvolvedor Full Stack** e aprofundando meus estudos em **DevOps**. Estou construindo uma base sólida em front-end, back-end, cloud, automação e boas práticas para entregar projetos organizados, funcionais e fáceis de evoluir.
 
-- Atualmente estudando desenvolvimento web e lógica de programação
-- Praticando com projetos usando HTML, CSS, JavaScript e C#
-- Aprendendo boas práticas com Git e GitHub
-- Estudando conceitos e ferramentas para atuar com DevOps, incluindo Azure, automação, Linux e integração contínua
-- Buscando construir um portfólio sólido e evoluir como profissional de tecnologia
+Meu foco é aprender construindo: transformar teoria em projetos reais, melhorar a qualidade do código e desenvolver uma visão mais completa do ciclo de vida de uma aplicação.
 
-## Tecnologias
+## Para recrutadores
 
 <div align="center">
 
-| Front-end | Back-end | DevOps e Cloud |
+| O que estou buscando | O que estou desenvolvendo | Minha direção |
 | --- | --- | --- |
-| <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML, CSS e JavaScript" /> | <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs&theme=dark" alt="C#, .NET e Node.js" /> | <img src="https://skillicons.dev/icons?i=azure,docker,linux,githubactions,git,github,bash,powershell&theme=dark" alt="Azure, Docker, Linux, GitHub Actions, Git, GitHub, Bash e PowerShell" /> |
+| Estágio ou oportunidade júnior | Projetos Full Stack e estudos práticos | Desenvolvimento + DevOps |
+| Evolução técnica constante | Git, GitHub, Azure, Docker e Linux | Código limpo e entrega contínua |
+| Experiência em equipe | Documentação, versionamento e organização | Portfólio real no GitHub |
 
 </div>
 
-## Full Stack em estudo
+## Front-end em destaque
 
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-0F172A?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-0F172A?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![C#](https://img.shields.io/badge/C%23-0F172A?style=for-the-badge&logo=csharp&logoColor=9B4F96)
-![.NET](https://img.shields.io/badge/.NET-0F172A?style=for-the-badge&logo=dotnet&logoColor=512BD4)
+![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0F172A?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0F172A?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+![Vite](https://img.shields.io/badge/Vite-0F172A?style=for-the-badge&logo=vite&logoColor=646CFF)
+![Figma](https://img.shields.io/badge/Figma-0F172A?style=for-the-badge&logo=figma&logoColor=F24E1E)
 
 </div>
 
-## DevOps em estudo
+## Full Stack
+
+<div align="center">
+
+| Front-end | Back-end | Banco/API |
+| --- | --- | --- |
+| Interfaces responsivas | C# e .NET em estudo | APIs, regras de negócio e integração |
+| HTML, CSS, JS, TS | Node.js como trilha complementar | Postman para testes |
+| React, Next.js e Vite | Lógica, estrutura e arquitetura | Organização de projetos |
+
+</div>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,cs,dotnet,nodejs,postman&theme=dark&perline=11" alt="Full stack icons" />
+
+</div>
+
+## DevOps e Cloud
 
 <div align="center">
 
@@ -54,64 +82,65 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou em constante
 ![Docker](https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Linux](https://img.shields.io/badge/Linux-0F172A?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0F172A?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+![Git](https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF)
 ![Bash](https://img.shields.io/badge/Bash-0F172A?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
 ![PowerShell](https://img.shields.io/badge/PowerShell-0F172A?style=for-the-badge&logo=powershell&logoColor=5391FE)
 
 </div>
 
-## Em evolução
-
 ```text
-HTML        █████████░░   Estruturação de páginas
-CSS         ████████░░░   Estilização e responsividade
-JavaScript  ███████░░░░   Interatividade e lógica
-C#          ██████░░░░░   Fundamentos e aplicações
-Git         ███████░░░░   Versionamento de projetos
-DevOps      █████░░░░░░   Azure, automação, integração e entrega
-Full Stack  ██████░░░░░   Front-end, back-end e integração
+Cloud        Azure, fundamentos de computação em nuvem e serviços essenciais
+Containers   Docker, imagens, containers e ambientes isolados
+Linux        Terminal, permissões, comandos e administração básica
+CI/CD        GitHub Actions, automação e pipelines de entrega
+Git          Branches, commits, versionamento e colaboração
 ```
 
-## GitHub
+## Minha trilha atual
+
+```text
+HTML/CSS       █████████░░   Estruturação, layout e responsividade
+JavaScript     ████████░░░   Lógica, DOM, eventos e consumo de APIs
+TypeScript     █████░░░░░░   Tipagem, organização e evolução do JS
+React/Next.js  █████░░░░░░   Componentes, rotas e interfaces modernas
+C#/.NET        ██████░░░░░   Fundamentos, APIs e aplicações
+DevOps         █████░░░░░░   Azure, Docker, Linux e CI/CD
+```
+
+## Em construção
 
 <div align="center">
 
-<a href="https://github.com/ThiagoSilvaPereira01">
-  <img src="https://img.shields.io/badge/GitHub-ThiagoSilvaPereira01-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
-</a>
-
-<a href="https://github.com/ThiagoSilvaPereira01?tab=repositories">
-  <img src="https://img.shields.io/badge/Projetos-Reposit%C3%B3rios-38BDF8?style=for-the-badge&logo=github&logoColor=0F172A" alt="Repositórios" />
-</a>
-
-<br>
-
-Foco em projetos, estudos e evolução constante dentro do desenvolvimento e DevOps.
+| Projetos web | APIs | DevOps |
+| --- | --- | --- |
+| Layouts responsivos | Integração front-end/back-end | Deploy e automação |
+| Componentes reutilizáveis | Testes com Postman | Pipelines com GitHub Actions |
+| Experiência do usuário | Organização de código | Azure, Docker e Linux |
 
 </div>
 
-## Foco atual
+## Código com propósito
 
-<div align="center">
-
-```text
-> Criar projetos práticos
-> Evoluir como Full Stack
-> Aprender Azure e DevOps
-> Usar GitHub como portfólio
+```csharp
+public class DeveloperJourney
+{
+    public string Name { get; set; } = "Thiago Silva Pereira";
+    public string Focus { get; set; } = "Full Stack + DevOps";
+    public string Goal { get; set; } = "Construir soluções úteis e evoluir todos os dias";
+}
 ```
-
-</div>
-
-## Objetivo
-
-Seguir aprendendo, praticando e criando projetos que demonstrem minha evolução como estudante, futuro desenvolvedor Full Stack e profissional DevOps.
 
 ---
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&lines=Aprendendo.+Construindo.+Versionando.+Automatizando.;Do+c%C3%B3digo+ao+deploy.;Full+Stack+%2B+DevOps+em+evolu%C3%A7%C3%A3o." alt="Footer typing animation" />
+
+<br>
+
 Obrigado por visitar meu perfil.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:0284C7,100:0F172A&height=120&section=footer" alt="Rodapé animado" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:0284C7,100:020617&height=130&section=footer" alt="Footer wave" />
 
 </div>
